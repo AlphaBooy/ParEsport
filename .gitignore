@@ -1,0 +1,8 @@
+ParEsport-API/node_modules/*
+ParEsport-CLIENT/node_modules/*
+
+.idea/
+
+ParEsport-CLIENT/.editorconfig
+
+ParEsport-CLIENT/.vscode/
